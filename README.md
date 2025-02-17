@@ -35,7 +35,7 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e desafios
 
 ## 📂 Repositório em Destaque
 
-🔹 [**Repositório 1**](https://github.com/seu-usuario/GeCoDiM) - Proposta de método computacional para identificação de conjunto de genes relacionados e significativos para o câncer.
+🔹 [**Repositório 1**](https://github.com/ThiagoDeAM/GeCoDiM) - Proposta de método computacional para identificação de conjunto de genes relacionados e significativos para o câncer.
 
 ---
 
