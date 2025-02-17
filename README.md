@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Thiago de Almeida Maciel
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThiagoDeAM&color=blue" alt="Profile views" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/thiago-maciel-9664011b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thiago-maciel-9664011b3)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:thiagomaciel822@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoDeAM)
 
@@ -51,10 +51,9 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e desafios
 
 📧 Email: [thiagomaciel822@gmail.com](mailto:thiagomaciel8222@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/thiago-maciel-9664011b3](www.linkedin.com/in/thiago-maciel-9664011b3)
+💼 LinkedIn: [https://www.linkedin.com/in/thiago-maciel-9664011b3](https://www.linkedin.com/in/thiago-maciel-9664011b3)
 
 🌐 GitHub: [https://github.com/ThiagoDeAM](https://github.com/ThiagoDeAM)
-
 
 
 <!--
