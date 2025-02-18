@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e desafios
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoDeAM&theme=dark&hide_border=true)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoDeAM&theme=dark&hide_border=true)-->
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDeAM&layout=compact&theme=dark&hide_border=true)
 ![GitHub Analytics](https://github-readme-stats.vercel.app/api?username=ThiagoDeAM&show_icons=true&theme=dark&hide_border=true)
 
